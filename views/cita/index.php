@@ -44,8 +44,6 @@
                 >
             </div>
 
-            <?php echo date('Y-m-d') ?>
-
             <div class="campo">
                 <label for="hora">Hora</label>
                 <input 
